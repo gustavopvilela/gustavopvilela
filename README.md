@@ -10,10 +10,14 @@
 ### ✍️ Atualmente estou aprendendo...
 [![Im learning](https://skillicons.dev/icons?i=python,spring,react&theme=dark&perline=15)](https://skillicons.dev)
 
-###
+<details>
+  <summary><h3>📊 Minhas estatísticas do GitHub</h3></summary>
 
-[![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=gustavopvilela&show_icons=true&theme=github_dark_dimmed&locale=pt-br)](https://github.com/gustavopvilela)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavopvilela&theme=github_dark_dimmed&hide_border=false&locale=pt-br)](https://github.com/gustavopvilela)
+  [![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=gustavopvilela&show_icons=true&theme=github_dark_dimmed&locale=pt-br)](https://github.com/gustavopvilela)
+  [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavopvilela&theme=github_dark_dimmed&hide_border=false&locale=pt-br)](https://github.com/gustavopvilela)
+</details>
+
+
 
 
 
