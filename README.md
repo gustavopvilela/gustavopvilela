@@ -1,4 +1,4 @@
-# Olá!👋 Meu nome é Gustavo!
+# Olá! Meu nome é Gustavo! 👋
 
 - Atualmente estou cursando Ciência da Computação no IFMG - Campus Formiga;
 - Possuo técnico em Informática pelo mesmo instituto;
@@ -26,5 +26,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavopvilela&repo=afd-game&theme=github_dark_dimmed)](https://github.com/gustavopvilela/afd-game)
 
 ## 📞 Entre em contato comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavopvilela)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gustavohp.vilela@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](https://linkedin.com/in/gustavopvilela)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark&perline=15)](https://mail.google.com/mail/?view=cm&to=gustavohp.vilela@gmail.com)
