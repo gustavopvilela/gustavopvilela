@@ -5,10 +5,10 @@
 - Estou aberto a oportunidades de estágio na área de desenvolvimento!
 
 ### 💻 Minhas tecnologias
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,java,php,laravel,dart,flutter,mysql,postgresql&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,java,spring,python,php,laravel,dart,flutter,mysql,postgresql&theme=dark&perline=15)](https://skillicons.dev)
 
 ### ✍️ Atualmente estou aprendendo...
-[![Im learning](https://skillicons.dev/icons?i=python,spring,react&theme=dark&perline=15)](https://skillicons.dev)
+[![Im learning](https://skillicons.dev/icons?i=typescript,angular&theme=dark&perline=15)](https://skillicons.dev)
 
 <details>
   <summary><h3>📊 Minhas estatísticas do GitHub</h3></summary>
